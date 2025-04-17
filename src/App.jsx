@@ -18,6 +18,7 @@ export default function App() {
     {icon:"/icons/instagram.png", name:"인스타그램", url:"https://instagram.com/2so.01"},
     {icon:"/icons/youtube.png", name:"유튜브", url:"https://youtube.com/@Li2CO3"},
     {icon:"/icons/blog.png", name:"블로그", url:"https://blog.naver.com/7li___924"},
+    {icon:"/icons/siru.png", name:"다꾸시루", url:"https://sticker-memo.vercel.app/"},
   ];
 
   const numbers = Array.from({ length: 12 }, (_, i) => i + 1);
